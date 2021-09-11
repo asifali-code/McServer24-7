@@ -1,7 +1,6 @@
 {
-	"ip":"TheWitheringAspectZD.aternos.me",
+	"ip":"TheWitheringAspectZD.aternos.me:48251",
 	"port": "48251",
 	"name": "ZekeServerBot",
 	"auto-night-skip":"true"
-	"auto-thunderstorm-skip:true
 }
