@@ -1,6 +1,6 @@
 {
 	"ip":"TheWitheringAspect.aternos.me",
 	"port":"48251"
-	"name": "ServerBot",
+	"name" :"ServerBot",
 	"auto-night-skip":"true"
 }
